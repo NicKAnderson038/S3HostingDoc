@@ -109,7 +109,7 @@
         ```
     - *** SSL Certificate: Custom SSL Certificate (example.com) radio 
     and click the `Request of Import a Certificate with ACM` button.
-    - Default Root Object: enter `index.html`
+    - Default Root Object: enter `index.html` *** If deploying from lambda, disable leave empty.
 
 *** Click on the `Request of Import a Certificate with ACM` button will open new screen. Follow the promps.
 
